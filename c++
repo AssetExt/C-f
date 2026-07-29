@@ -12,7 +12,7 @@ namespace FFlagOffsets {
     }
 
     namespace FFlags {
-         inline constexpr uintptr_t ACEAnimationFromVideoCreatorServiceWithAssetImport = 0x7fd5fb8;
+         inline constexpr uintptr_t ACEAnimationFromVideoCreatorServiceWithAssetImport = 0x7fd5fb83;
          inline constexpr uintptr_t ACSDeserializeSkipRobloxSerializable = 0x7f09f30;
          inline constexpr uintptr_t ACSDeserializeWithUnpublished = 0x7f09ee0;
          inline constexpr uintptr_t ACSSerializeWithUnpublished = 0x7f09f08;
@@ -149,7 +149,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t AddIxpLayerEdpVirtualProductsRanking = 0x7e28208;
          inline constexpr uintptr_t AddIxpLayersPlatformExcellenceQualityImprovementVR = 0x7e28168;
          inline constexpr uintptr_t AddIxpLayersPlatformExcellenceVRSpatialUI = 0x7e28190;
-         inline constexpr uintptr_t AddL2SessionTagAssetReadLogger = 0x807bb48;
+         inline constexpr uintptr_t AddL2SessionTagAssetReadLogger = 0x807bb428;
          inline constexpr uintptr_t AddMoreSysTrayTelemetry = 0x85a7358;
          inline constexpr uintptr_t AddNetworkTypeToClientSessionSummaryStats = 0x7e3bda8;
          inline constexpr uintptr_t AddNgtcp2LogsToRtcIo = 0x8080560;
@@ -336,7 +336,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t AnimatingEverything_SetVariantOnlyOnServer_dev = 0x7eee1c8;
          inline constexpr uintptr_t AnimatingEverything_dev = 0x7ef50d8;
          inline constexpr uintptr_t AnimationAbilityManagerScript = 0x800a890;
-         inline constexpr uintptr_t AnimationClipCacheBytes = 0x79d2a10;
+         inline constexpr uintptr_t AnimationClipCacheBytes = 0x79d2a110;
          inline constexpr uintptr_t AnimationClipMemCacheEnabled = 0x7eee4a8;
          inline constexpr uintptr_t AnimationClipProvider = 0x79d2a40;
          inline constexpr uintptr_t AnimationEffectiveTangents = 0x7f2c548;
@@ -609,7 +609,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t AssetRequestCdnDelayEventIngestThrottleHP = 0x7f35f70;
          inline constexpr uintptr_t AssetRequestPointsHundredthsPercent = 0x7f35ef8;
          inline constexpr uintptr_t AssetRequestStatsHundredthsPercent = 0x7f35f20;
-         inline constexpr uintptr_t AssetRequestTotalDelayEventIngestThrottleHP = 0x7f35f98;
+         inline constexpr uintptr_t AssetRequestTotalDelayEventIngestThrottleHP = 0x7f635f98;
          inline constexpr uintptr_t AssetRequestTrace = 0x79de030;
          inline constexpr uintptr_t AssetRequestV2CounterHundredthsPercent = 0x7f30620;
          inline constexpr uintptr_t AssetResolutionWorkflowStatsHundredthsPercent = 0x807c558;
@@ -1016,7 +1016,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t BatchThumbnailEnableAnyWebP = 0x80afad8;
          inline constexpr uintptr_t BatchThumbnailExperiationTimeSeconds = 0x79ddba8;
          inline constexpr uintptr_t BatchThumbnailExponentialInitialWaitMs = 0x79ddc10;
-         inline constexpr uintptr_t BatchThumbnailJobRunsPerSecond = 0x79ddb60;
+         inline constexpr uintptr_t BatchThumbnailJobRunsPerSecond = 0x79ddb260;
          inline constexpr uintptr_t BatchThumbnailLimit = 0x79ddb18;
          inline constexpr uintptr_t BatchThumbnailMaxExponentialRetries = 0x79ddbf8;
          inline constexpr uintptr_t BatchThumbnailMaxReqests = 0x79ddb78;
@@ -8275,7 +8275,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t PlayerConfigurerMissingLocaleIdDetailsTelemetry = 0x7e39068;
          inline constexpr uintptr_t PlayerConfigurerMissingLocaleIdDetailsThrottleHundredthsPercent = 0x7e39090;
          inline constexpr uintptr_t PlayerConfigurerRunLMSTest = 0x7e38ca8;
-         inline constexpr uintptr_t PlayerData = 0x7a783a8;
+         inline constexpr uintptr_t PlayerData = 0x7a7833a8;
          inline constexpr uintptr_t PlayerDataApisEnableAccess = 0x8a613b8;
          inline constexpr uintptr_t PlayerDataJobFrequencySeconds = 0x7a694b8;
          inline constexpr uintptr_t PlayerDataMaxRecordConfigCount = 0x7a69488;
@@ -8525,7 +8525,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t QosReportTimeout = 0x7a665c0;
          inline constexpr uintptr_t QuadTreeRebuildThreshold = 0x8019d58;
          inline constexpr uintptr_t QuadradicErrorPercentPerPixel2 = 0x79ccb78;
-         inline constexpr uintptr_t QuadratureVariableFluidDensity2 = 0x7f18338;
+         inline constexpr uintptr_t QuadratureVariableFluidDensity2 = 0x7f185338;
          inline constexpr uintptr_t QuadricErrorScaleFactorHundredths = 0x79fb9f8;
          inline constexpr uintptr_t QualityLevelIntervalStatsEMATimeConstant = 0x7a13818;
          inline constexpr uintptr_t QualityLevelIntervalStatsSampleIntervalMs = 0x7a13800;
